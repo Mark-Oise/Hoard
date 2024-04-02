@@ -43,7 +43,7 @@ Hoard Server is a Python implementation of a simple key-value data store server.
 
 1. Clone the repository:
 
-        $ git clone https://github.com/yourusername/hoard-server.git
+        $ git clone https://github.com/TheTiredOne22/Hoard.git
 
 2. Navigate to the project directory:
 
